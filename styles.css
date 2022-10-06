@@ -1,0 +1,14 @@
+body {
+    background-color: green;
+    font-size: 30px;
+  }
+  
+  .card {
+    height: 300px;
+    width: 200px;
+    position: relative;
+  }
+  
+  .sign {
+    font-size: 45px;
+  }
